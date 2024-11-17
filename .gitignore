@@ -1,0 +1,13 @@
+# Node.js dependencies
+node_modules
+
+# Environment variables
+.env
+server/.env
+
+# Build files
+server/dist
+
+# Lock files
+package-lock.json
+client/package-lock.json
